@@ -46,6 +46,12 @@
 
 <Estudante 
                 nome="João Victor da Silva Caetano"
+<Estudante 
+                nome="Cãosidente"
+                imagem='http://github.com/sh0uwzz.png'
+                descricao='Presidente do Brasil'
+                githublink='http://github.com/sh0uwzz'
+            />
                 imagem="https://github.com/joaovscaetano.png"
                 descricao="Estudante do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink="https://github.com/joaovscaetano"
