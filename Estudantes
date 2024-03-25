@@ -33,3 +33,10 @@
                 githubLink="https://github.com/torneira"
                 />
 
+<Estudante 
+                nome="João Victor da Silva Caetano"
+                imagem="https://github.com/joaovscaetano.png"
+                descricao="Estudante do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
+                githubLink="https://github.com/joaovscaetano"
+            />
+
