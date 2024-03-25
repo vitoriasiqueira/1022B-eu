@@ -4,6 +4,14 @@
                 descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink='https://github.com/guilhermeterenciani'
             />
+
+<Estudante
+          nome='Lucas'
+          imagem='https://github.com/lucasfelipeoliveira2022.png'
+          descricao='Estudante do IFMS em Técnico de Informática para Internet'
+          githubLink='http://github.com/lucasfelipeoliveira2022'
+          />
+
  <Estudante 
 
             nome="Maria Clara" 
@@ -24,3 +32,4 @@
                 descricao="GG"
                 githubLink="https://github.com/torneira"
                 />
+
