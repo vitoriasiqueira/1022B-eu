@@ -4,11 +4,6 @@
                 descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink='https://github.com/guilhermeterenciani'
             />
-<Estudante 
-            nome='Guilherme Pinheiro'
-            imagem='https://github.com/GuiPiinheiro.png'
-            descricao='Estudante do IFMS que não aguenta mais essa vida!'
-            githubLink='https://github.com/GuiPiinheiro'/>
 
 <Estudante
           nome='Lucas'
@@ -45,4 +40,9 @@
                 githubLink="https://github.com/joaovscaetano"
             />
 
-
+ <Estudante 
+                nome="Felipe Santos"
+                imagem="https://github.com/Felipe10222b.png"
+                descricao="vampetinhacria"
+                githubLink='https://github.com/Felipe10222b'
+            />
