@@ -51,6 +51,7 @@
                 githubLink="https://github.com/joaovscaetano"
             />
 
+
   <Estudante 
                nome="Vinicius Eduardo"
                imagem="https://github.com/vinixxsdj.png"
@@ -71,3 +72,9 @@
                 githubLink='https://github.com/rikelme1810'
                 />
 
+<Estudante
+                nome="Gustavo Oliveira Silva"
+                imagem="https://github.com/Gustavoif12.png"
+                descricao="Aluno do IFMS nas matérias de Desenvolvimento / Desenvolvimento Web"
+                githubLink="https://github.com/Gustavoif12"
+                />
