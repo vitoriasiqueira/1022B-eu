@@ -1,4 +1,4 @@
-<Estudante 
+            <Estudante 
                 nome="Guilherme Figueiredo Terenciani"
                 imagem="https://github.com/guilhermeterenciani.png"
                 descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
@@ -11,6 +11,7 @@
             descricao= "Estudante do IFMS"
             githubLink= "https://github.com/07174293182"
             />
+<Estudante 
             nome='Guilherme Pinheiro'
             imagem='https://github.com/GuiPiinheiro.png'
             descricao='Estudante do IFMS que não aguenta mais essa vida!'
@@ -30,7 +31,7 @@
             descricao = "estudante do IFMS informatica para internet"
             githubLink="https://github.com/mariFeldk"/>
             
-
+<Estudante 
             nome="MarcUs Gamer"
             imagem='https://github.com/linss22.png'
             descricao='Gamer do IFMS hahahahahahah'
@@ -44,14 +45,15 @@
                 githubLink="https://github.com/torneira"
                 />
 
-<Estudante 
-                nome="João Victor da Silva Caetano"
+
 <Estudante 
                 nome="Cãosidente"
                 imagem='http://github.com/sh0uwzz.png'
                 descricao='Presidente do Brasil'
-                githublink='http://github.com/sh0uwzz'
+                githubLink='http://github.com/sh0uwzz'
             />
+<Estudante 
+                nome="João Victor da Silva Caetano"
                 imagem="https://github.com/joaovscaetano.png"
                 descricao="Estudante do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink="https://github.com/joaovscaetano"
@@ -77,10 +79,6 @@
                 descricao='Estudante vagabundo'
                 githubLink='https://github.com/rikelme1810'
                 />
-
-nome="Maria"
-            imagem='https://avatars.githubusercontent.com/u/118355973?s=400&u=2b41f0c5b835451cf0e377dadd55fc6dae680a4e&v=4'
-            descricao='Aluna IFMS'/>
             
 
 <Estudante
