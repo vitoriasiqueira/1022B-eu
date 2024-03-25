@@ -5,6 +5,12 @@
                 githubLink='https://github.com/guilhermeterenciani'
             />
 <Estudante 
+
+            nome="Vitória"
+            imagem="https://github.com/07174293182.png"
+            descricao= "Estudante do IFMS"
+            githubLink= "https://github.com/07174293182"
+            />
             nome='Guilherme Pinheiro'
             imagem='https://github.com/GuiPiinheiro.png'
             descricao='Estudante do IFMS que não aguenta mais essa vida!'
