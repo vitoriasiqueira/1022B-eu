@@ -1,6 +1,6 @@
-<Estudante 
-                nome="Guilherme Figueiredo Terenciani"
-                imagem="https://github.com/guilhermeterenciani.png"
-                descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
-                githubLink='https://github.com/guilhermeterenciani'
+   <Estudante 
+            nome="Marcela Santos de Oliveira"
+            imagem="https://github.com/marcelaoliveira2.png"
+            descrição="Estudante do IFMS"
+            githubLink="https://github.com/marcelaoliveira2"
             />
