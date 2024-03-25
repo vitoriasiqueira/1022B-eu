@@ -17,3 +17,9 @@
                 descricao="GG"
                 githubLink="https://github.com/torneira"
                 />
+<Estudante 
+            nome="Victor Hugo Da Costa Bueno"
+            imagem="https://github.com/victor17y.png"
+            descricao='estudante do ifms nas materias '
+            githubLink='href="https://github.com/victor17y'
+            />
