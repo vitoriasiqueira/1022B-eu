@@ -72,6 +72,11 @@
                 githubLink='https://github.com/rikelme1810'
                 />
 
+nome="Maria"
+            imagem='https://avatars.githubusercontent.com/u/118355973?s=400&u=2b41f0c5b835451cf0e377dadd55fc6dae680a4e&v=4'
+            descricao='Aluna IFMS'/>
+            
+
 <Estudante
                 nome="Gustavo Oliveira Silva"
                 imagem="https://github.com/Gustavoif12.png"
