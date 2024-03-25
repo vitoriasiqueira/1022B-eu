@@ -51,16 +51,15 @@
                 githubLink="https://github.com/joaovscaetano"
             />
 
- <Estudante 
-                nome="Felipe Santos"
-                imagem="https://github.com/Felipe10222b.png"
-                descricao="vampetinhacria"
-                githubLink='https://github.com/Felipe10222b'
-            />
 <Estudante
                 nome="Rikelme de Freitas"
                 imagem='https://github.com/rikelme1810.png'
                 descricao='Estudante vagabundo'
                 githubLink='https://github.com/rikelme1810'
                 />
+
+nome="Maria"
+            imagem='https://avatars.githubusercontent.com/u/118355973?s=400&u=2b41f0c5b835451cf0e377dadd55fc6dae680a4e&v=4'
+            descricao='Aluna IFMS'/>
+            
 
