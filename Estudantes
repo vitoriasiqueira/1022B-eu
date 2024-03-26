@@ -1,3 +1,10 @@
+
+   <Estudante 
+            nome="Marcela Santos de Oliveira"
+            imagem="https://github.com/marcelaoliveira2.png"
+            descrição="Estudante do IFMS"
+            githubLink="https://github.com/marcelaoliveira2"
+   />
             <Estudante 
                 nome="Guilherme Figueiredo Terenciani"
                 imagem="https://github.com/guilhermeterenciani.png"
