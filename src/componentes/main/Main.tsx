@@ -177,6 +177,12 @@ function Main() {
         descricao="O Aluno Mais !Lindo Do IF"
         githubLink="https://github.com/GuilhermeTheGrego"
       />
+      <Estudante
+        nome="Maria"
+        imagem="https://github.com/Maria762663114.png"
+        descricao="Aluna IFMS"
+        githubLink="https://github.com/Maria762663114"
+      />
     </main>
   );
 }
