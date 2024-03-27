@@ -6,3 +6,19 @@ main{
     justify-items: center;
     row-gap: 2rem;
 }
+@media (max-width:800px){
+    main{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+@media (max-width:580px){
+    main{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (max-width:400px){
+    main{
+        grid-template-columns: 1fr;
+    }
+}
+
