@@ -16,12 +16,6 @@ function Main() {
         githubLink="https://github.com/guilhermeterenciani"
       />
       <Estudante
-        nome="Vitória"
-        imagem="https://github.com/07174293182.png"
-        descricao="Estudante do IFMS"
-        githubLink="https://github.com/07174293182"
-      />
-      <Estudante
         nome="Guilherme Pinheiro"
         imagem="https://github.com/GuiPiinheiro.png"
         descricao="Estudante do IFMS que não aguenta mais essa vida!"
@@ -164,6 +158,24 @@ function Main() {
         descricao=" Estudante do IFMS nas matérias de 
             Desenvolvimento - Desenvolvimento Web"
         githubLink="https://github.com/IsabelyAntunes"
+      />
+      <Estudante
+        nome="Emilly Geovana"
+        imagem="https://github.com/emyy8.png"
+        descricao="ctapimbas"
+        githubLink="https://github.com/emyy8"
+      />
+      <Estudante
+        nome="Marcos Antonio Magalhães Neto"
+        imagem="https://github.com/MarcosNeto23.png"
+        descricao="Estudante do Ifms"
+        githubLink="https://github.com/MarcosNeto23"
+      />
+      <Estudante
+        nome="Guilherme De Souza"
+        imagem="https://github.com/GuilhermeTheGrego.png"
+        descricao="O Aluno Mais !Lindo Do IF"
+        githubLink="https://github.com/GuilhermeTheGrego"
       />
     </main>
   );
